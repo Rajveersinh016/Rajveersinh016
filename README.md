@@ -97,7 +97,7 @@
 - 📧 Email: desairajveersinh@gmail.com  
 - 🌐 [Portfolio](https://portfolio-website-ebon-eight-13.vercel.app)  
 - 💼 [LinkedIn](http://www.linkedin.com/in/desairajveersinh)  
-- 💻 [GitHub](https://github.com/Rajveersinh016)
+
 
 ---
 
